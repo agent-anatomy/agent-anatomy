@@ -6,7 +6,15 @@
 
 ---
 
-## Agents
+## Universal
+
+| Tool | What it does | Repo |
+|------|-------------|------|
+| **agent** | Write `AGENT.md` once, sync to all agents in one command | [agent-anatomy/agent](https://github.com/agent-anatomy/agent) |
+
+---
+
+## Individual boilerplates
 
 | Agent | Config file/folder | Boilerplate |
 |-------|--------------------|-------------|
